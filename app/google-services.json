@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426410642860",
+    "project_id": "nursingcarefoodapp",
+    "storage_bucket": "nursingcarefoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426410642860:android:4dd9b486e0cce9ccd9fe09",
+        "android_client_info": {
+          "package_name": "com.example.nursingcarefoodandbeveragemanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426410642860-otj3c94t2jc8mjf0qtknlgbu2bo5q8lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nursingcarefoodandbeveragemanagementapp",
+            "certificate_hash": "9abc867090e56d6678c74937b7d41e2ee30d9881"
+          }
+        },
+        {
+          "client_id": "426410642860-o4b5n7v9jchh269iutiih41ecfvqvdfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbVJyUO9qeVN5HN_5_nU01utnSspO3C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426410642860-o4b5n7v9jchh269iutiih41ecfvqvdfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
